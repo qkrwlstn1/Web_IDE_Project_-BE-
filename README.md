@@ -19,12 +19,68 @@
 
 ## 기술
 ### BE
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"> <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 - Go
 
 ### FE
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-- Go
+
+## 프로젝트 기능
 
 
-- CSS3
+### <img src="https://github.com/goorm-6th-Als/Web_IDE_Project_-BE-/assets/75283640/af448d61-8f27-45f1-98b0-f037842bffd3" width="30" height="30"/>회원가입 / 로그인
+| 기능 | 담당자 | 걸린기간 | 구분 |
+| ------------- | ------------- | ------------- | ------------- |
+| 회원가입 페이지 | 남수연 | ??.?? ~ ??.?? | 필수 |
+| ID 중복확인 | 남수연 | ??.?? ~ ??.?? | 필수 |
+| 닉네임 중복확인 | 남수연 | ??.?? ~ ??.?? | 필수 |
+| 회원가입 | 남수연 | ??.?? ~ ??.?? | 필수 |
+| 로그인 | 남수연 | ??.?? ~ ??.?? | 필수 | 
+| 소셜 회원가입 | 미정 | ??.?? ~ ??.?? | 추가 |  
+| 소셜 로그인 | 미정 | ??.?? ~ ??.?? | 추가 | 
+
+### <img src="https://github.com/goorm-6th-Als/Web_IDE_Project_-BE-/assets/75283640/d556bceb-cee9-4749-85af-c7284414bd98" width="30" height="30"/>마이페이지
+| 기능 | 담당자 | 걸린기간 | 구분 |
+| ------------- | ------------- | ------------- | ------------- |
+| 마이페이지(조회) | 남수연 | ??.?? ~ ??.?? | 필수 |
+| 비밀번호 변경 | 남수연 | ??.?? ~ ??.?? | 필수 |
+| 닉네임 변경 | 남수연 | ??.?? ~ ??.?? | 추가 |
+| 비밀번호 확인 | 남수연 | ??.?? ~ ??.?? | 추가 |
+
+### <img src="https://github.com/goorm-6th-Als/Web_IDE_Project_-BE-/assets/75283640/cb0ad30e-16bf-44dc-b182-560c0a47470f" width="30" height="30"/>IDE
+| 기능 | 담당자 | 걸린기간 | 구분 |
+| ------------- | ------------- | ------------- | ------------- |
+| 화면(파일 READ) | 김현빈, 강준수 | ??.?? ~ ??.?? | 필수 |
+| 코드 컴파일 | 김현빈, 강준수 | ??.?? ~ ??.?? | 필수 |
+| 파일 생성 | 김현빈, 강준수 | ??.?? ~ ??.?? | 필수 |
+| 코드 수정기능 | 김현빈, 강준수 | ??.?? ~ ??.?? | 필수 |
+| 파일 저장 | 김현빈, 강준수 | ??.?? ~ ??.?? | 필수 |
+| 파일 저장 | 김현빈, 강준수 | ??.?? ~ ??.?? | 필수 |
+| 파일 삭제 | 김현빈, 강준수 | ??.?? ~ ??.?? | 필수 |
+| 불러오기 | 김현빈, 강준수 | ??.?? ~ ??.?? | 필수 |
+| 코드 검색 | 김현빈, 강준수 | ??.?? ~ ??.?? | 필수 |
+| AI 코드 리뷰 | 미정 | ??.?? ~ ??.?? | 추가 |
+| AI 리뷰 결과 | 미정 | ??.?? ~ ??.?? | 추가 |
+| 코드 공유 | 미정 | ??.?? ~ ??.?? | 추가 |
+
+
+### <img src="https://github.com/goorm-6th-Als/Web_IDE_Project_-BE-/assets/75283640/faa4359f-b45d-4683-85e5-f8929804cf35" width="30" height="30"/>실시간 채팅
+| 기능 | 담당자 | 걸린기간 | 구분 |
+| ------------- | ------------- | ------------- | ------------- |
+| 채팅 메세지 전송 | 박진수 | ??.?? ~ ??.?? | 필수 |
+| 채팅 검색 기능 | 박진수 | ??.?? ~ ??.?? | 필수 |
+<img src="https://www.figma.com/file/T7rIuLCyRe46chXtrJYRN5/Web-IDE?type=whiteboard&node-id=937-2672&t=PfSUGNBIWrqF4rZb-4"/>
+## 적용기술
+
+## 트러블 슈팅
+
+
+## 아키텍처
+
+## 플로우 차트
+
+<img width="7378" alt="Web IDE (2)" src="https://github.com/goorm-6th-Als/Web_IDE_Project_-BE-/assets/75283640/35b08169-ae2f-4c54-b88f-1bc14b81f217">
+
+
+## ERD 
+![스크린샷 2024-04-29 180241](https://github.com/goorm-6th-Als/Web_IDE_Project_-BE-/assets/75283640/b1e47807-a5b3-478e-b118-596dd19ad7bc)
